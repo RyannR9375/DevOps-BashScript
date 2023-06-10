@@ -14,4 +14,4 @@ STEPS
 5) Run this command: sed -i 's/\r//g' script.sh
 6) Run the script using this command: ./script.sh
 7) Open your browser and input your VM's ip address
-8) Check-out my semi-functional mock store!
+8) Check-out the semi-functional mock store I made by myself!
