@@ -9,9 +9,10 @@ STEPS
 -----
 1) Run your new VM
 2) Log in
-3) Copy the .sh file from this repository into your VM
-4) Run this command: chmod 755 script.sh
-5) Run this command: sed -i 's/\r//g' script.sh
-6) Run the script using this command: ./script.sh
-7) Open your browser and input your VM's ip address
-8) Check-out the semi-functional mock store I made by myself!
+3) SCP the .sh file from this repository into your VM
+4) Locate and cd to the folder containing the .sh file in your VM
+5) Run this command: **chmod 755 script.sh**
+6) Run this command: **sed -i 's/\r//g' script.sh**
+7) Run the script using this command: **./script.sh**
+8) Open your browser and input your VM's ip address
+9) Check-out the semi-functional mock store I made by myself!
