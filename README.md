@@ -14,5 +14,6 @@ STEPS
 5) Run this command: **chmod 755 script.sh**
 6) Run this command: **sed -i 's/\r//g' script.sh**
 7) Run the script using this command: **./script.sh**
-8) Open your browser and input your VM's ip address
-9) Check-out the semi-functional mock store I made by myself!
+8) If your script suddenly stops at an "apt key" depracated error, you may have to input "Host Key + C" to break out of the error message and continue with your script.
+9) Open your browser and input your VM's ip address
+10) Check-out the semi-functional mock store I made by myself!
